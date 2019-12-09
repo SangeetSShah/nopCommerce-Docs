@@ -13,7 +13,7 @@ Most of the projects, directories, and files are named so that you can get a rou
 
 ## `\Libraries\Nop.Core`
 
-The Nop.Core project contains a set of core classes for nopCommerce, such as caching, events, helpers, and business objects (for example, Order and Customer entities).
+The Nop.Core project contains a set of core classes for nopCommerce, such as caching, events, helpers, and business objects (like Order, Customer, Store, Address and many of entities that intrect with database fields).
 
 ## `\Libraries\Nop.Data`
 
@@ -21,7 +21,7 @@ The Nop.Data project contains a set of classes and functions for reading from an
 
 ## `\Libraries\Nop.Services`
 
-This project contains a set of core services, business logic, validations or calculations related with the data, if needed. Some people call it Business Access Layer (BAL).
+This project contains a set of core services, business logic, validations or calculations related with the data.  You call it as Business Access Layer (BAL) of project.
 
 ## Projects into `\Plugins\` solution folder
 
